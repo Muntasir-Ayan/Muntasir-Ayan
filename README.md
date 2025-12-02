@@ -13,7 +13,8 @@
  
 <!-- <h3 align="center">A passionate frontend developer</h3> -->
 
-Jr Software Engineer at [W3 Engineers Ltd.](https://w3engineers.com/)
+Jr. Software Engineer at [W3 Engineers Ltd.](https://w3engineers.com/)
+<br/>
 Former ML Engineer at [1212 Analytics](https://1212analytics.com/)
 
 More about me [Muntasir Ayan](https://muntasir-ayan.github.io/mjayan.github.io/) 
